@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\bin\Debug\201314333_Tienda.exe.config
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\bin\Debug\201314333_Tienda.exe
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\bin\Debug\201314333_Tienda.pdb
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\bin\Debug\201314333_Tienda.xml
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.vbproj.AssemblyReference.cache
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\_201314333_Tienda.Form1.resources
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\_201314333_Tienda.Resources.resources
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.exe
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.xml
+C:\Users\hp\Desktop\201314333_Tarea2\201314333_Tienda\201314333_Tienda\obj\Debug\201314333_Tienda.pdb
